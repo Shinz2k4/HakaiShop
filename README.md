@@ -2,7 +2,7 @@
 # HakaiShop - web thương mại điện tử đồ điện nước 
 
 #Thành Viên:
-Đỗ Đăng Minh
-Tạ Thành Phú
-Hà Trung Dũng
+Đỗ Đăng Minh  
+Tạ Thành Phú  
+Hà Trung Dũng  
 
